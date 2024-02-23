@@ -1,0 +1,3 @@
+[submodule "subpro"]
+	path = subpro
+	url = git@github.com:lelouch-xue/vue3-pc-toolkit.git
